@@ -29,5 +29,12 @@ No activity tracked
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalHilal)](https://github.com/anuraghazra/github-readme-stats)
 
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalHilal&theme=react-dark&hide_border=true)
+
+![Commit Stats](https://github-readme-stats.vercel.app/api?username=VishalHilal&show_icons=true&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=VishalHilal&style=for-the-badge)
+
+
 ![Snake animation](https://raw.githubusercontent.com/VishalHilal/VishalHilal/output/github-contribution-grid-snake.svg)
 
