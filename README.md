@@ -27,7 +27,7 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalHilal&layout=compact&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalHilal)](https://github.com/anuraghazra/github-readme-stats)
 
