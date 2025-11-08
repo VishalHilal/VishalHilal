@@ -1,32 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Vishal Hilal  
 
-<!--
-**VishalHilal/VishalHilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me  
 
-Here are some ideas to get you started:
+🚀 **Full-stack Web Developer** with hands-on experience in building scalable and high-performance web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and **MySQL**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skilled in **Linux environments**, **VPS management**, and **secure cloud deployment**.  
+
+📘 Strong foundation in **Operating Systems**, **Computer Networks**, and **core Computer Science fundamentals**.  
+
+---
 
  <!--START_SECTION:waka-->
-
-```txt
-From: 30 October 2025 - To: 06 November 2025
-
-Total Time: 47 mins
-
-TypeScript   47 mins         ████████████████████████▓   98.01 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-```
-
-<!--END_SECTION:waka-->
 
 ### 🧠 Languages & Technologies
 
