@@ -28,16 +28,31 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<p align="start">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap" />
+  <br />
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,gradle" />
+  <br />
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,java,spring,mongodb,mysql,git,github,docker,postman,vscode,idea" />
+  <!-- DevOps, Cloud & CI/CD -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,gcp,azure,nginx,linux,bash" />
+  <br />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,androidstudio,neovim,vim,atom,pycharm,visualstudio,sublime" />
 </p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalHilal&layout=donut-vertical&theme=tokyonight)
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@vishalhilal&theme=radical)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalHilal)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalHilal&theme=react-dark&hide_border=true)
 
