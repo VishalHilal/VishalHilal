@@ -43,7 +43,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalHilal&layout=donut-vertical&theme=tokyonight)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@vishalhilal&theme=radical)
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalHilal&theme=react-dark&hide_border=true)
 
