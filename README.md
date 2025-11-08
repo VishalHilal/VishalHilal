@@ -27,6 +27,16 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,java,spring,mongodb,mysql,git,github,docker,postman,vscode,idea" />
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalHilal&layout=donut-vertical&theme=tokyonight)
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_ID&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalHilal&layout=compact&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalHilal)](https://github.com/anuraghazra/github-readme-stats)
