@@ -28,25 +28,32 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+### 🧠 Languages & Technologies
+
 <p align="start">
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,go,rust,c,cpp" />
+  <br />
+
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap" />
   <br />
-  
+
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,gradle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,gradle" />
   <br />
-  
+
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
   <br />
 
   <!-- DevOps, Cloud & CI/CD -->
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,gcp,azure,nginx,linux,bash" />
   <br />
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,androidstudio,neovim,vim,atom,pycharm,visualstudio,sublime" />
+  <!-- Code Editors & Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,androidstudio,neovim,vim,visualstudio,sublime,atom,figma,git,github,postman" />
 </p>
 
 
