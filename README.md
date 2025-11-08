@@ -35,7 +35,7 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalHilal&layout=donut-vertical&theme=tokyonight)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=vishalhilal&theme=radical)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@vishalhilal&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalHilal)](https://github.com/anuraghazra/github-readme-stats)
 
