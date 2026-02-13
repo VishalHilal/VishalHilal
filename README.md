@@ -40,10 +40,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,androidstudio,neovim,vim,visualstudio,sublime,atom,figma,git,github,postman" />
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalHilal&layout=donut-vertical&theme=tokyonight)
-
-
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalHilal&theme=react-dark&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/VishalHilal/VishalHilal/output/github-contribution-grid-snake.svg)
