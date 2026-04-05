@@ -1,18 +1,18 @@
 ## Hi there 👋 I'm Vishal Hilal  
 
-### 💫 About Me  
+###  About Me  
 
-🚀 **Full-stack Web Developer** with hands-on experience in building scalable and high-performance web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and **MySQL**.  
+ **Full-stack Web Developer** with hands-on experience in building scalable and high-performance web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and **MySQL**.  
 
-🛠️ Skilled in **Linux environments**, **VPS management**, and **secure cloud deployment**.  
+ Skilled in **Linux environments**, **VPS management**, and **secure cloud deployment**.  
 
-📘 Strong foundation in **Operating Systems**, **Computer Networks**, and **core Computer Science fundamentals**.  
+ Strong foundation in **Operating Systems**, **Computer Networks**, and **core Computer Science fundamentals**.  
 
 ---
 
  <!--START_SECTION:waka-->
 
-### 🧠 Languages & Technologies
+###  Languages & Technologies
 
 <p align="start">
 
