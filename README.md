@@ -5,14 +5,24 @@
  **Full-stack Web Developer** with hands-on experience in building scalable and high-performance web applications using **React**, **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and **MySQL**.  
 
  Skilled in **Linux environments**, **VPS management**, and **secure cloud deployment**.  
+ 
+ ---
 
  Strong foundation in **Operating Systems**, **Computer Networks**, and **core Computer Science fundamentals**.  
 
 ---
 
+## Hobbies & Interests
+
+Passionate about exploring multiple programming languages and understanding their unique paradigms.
+
+I enjoy learning how different languages solve problems and implementing the same concepts across various technologies to deepen my understanding of software design and development.
+
+---
+
  <!--START_SECTION:waka-->
 
-###  Languages & Technologies
+###  Languages & Technologies I Explored
 
 <p align="start">
 
