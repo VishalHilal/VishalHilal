@@ -2,8 +2,6 @@
 
 **Full-Stack Web Developer** building scalable, high-performance web applications with **React**, **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and **MySQL**, and increasingly integrating **AI-powered workflows** into the products I build.
 
-- Hands-on with **Linux**, **VPS management**, and **secure cloud deployment**
-- Strong foundation in **Operating Systems**, **Computer Networks**, and **core CS fundamentals**
 - Exploring **agentic development** with Claude Code, MCP, and LLM APIs
 
 ---
@@ -22,7 +20,7 @@ I enjoy learning how different languages and paradigms solve the same problem, a
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
 **Backend**
 
@@ -34,7 +32,7 @@ I enjoy learning how different languages and paradigms solve the same problem, a
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,nginx,linux,bash" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions" />
 
 ---
 
