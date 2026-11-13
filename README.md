@@ -1,60 +1,31 @@
-# Hi there 👋 I'm Vishal Hilal
+<p align="center">
+  <img src="assets/hero-aurora.svg" alt="Vishal Hilal, full-stack web developer" width="100%">
+</p>
 
-**Full-Stack Web Developer** building scalable, high-performance web applications with **React**, **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and **MySQL**, and increasingly integrating **AI-powered workflows** into the products I build.
+# Hi, I'm Vishal Hilal
 
-- Exploring **agentic development** with Claude Code, MCP, and LLM APIs
+I'm a full-stack web developer. Most of my work is in React, Next.js, TypeScript and Node.js, with MongoDB or MySQL behind it. Lately I've been adding LLM features to the apps I build.
 
----
+I like solving the same problem in different languages and paradigms, because it shows me how each one shapes the design.
 
-## 🧠 Interests
+## Tech stack
 
-I enjoy learning how different languages and paradigms solve the same problem, and implementing the same concepts across multiple technologies to deepen my understanding of software design.
+<img src="assets/stack-marquee.svg" alt="Python, JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, Node.js, Express, MongoDB, MySQL, PostgreSQL, Redis, Docker, GitHub Actions" width="100%">
 
----
+## What I'm learning right now
 
-## 🛠️ Tech Stack
+<img src="assets/ai-workflow.svg" alt="Prompt, Claude Code, MCP tools, LLM API, pgvector, app" width="100%">
 
-**Languages**
+Most of my learning time goes into:
 
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
+- Using Claude Code for everyday development
+- Building MCP servers and connecting tools to them
+- Function calling with LLM APIs
+- RAG with vector search, mostly pgvector
+- Writing prompts and managing context in real apps
 
-**Frontend**
+## GitHub activity
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalHilal&theme=react-dark&hide_border=true)
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions" />
-
----
-
-## 🤖 AI-Assisted Development
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/Agentic_Workflows-2E7D32?style=for-the-badge)
-
-**Currently exploring:**
-- Agentic coding workflows with **Claude Code**
-- **Model Context Protocol (MCP)** servers and tool integrations
-- Tool use / function calling with LLM APIs
-- Retrieval-Augmented Generation (RAG) with vector search (e.g. pgvector)
-- Prompt and context engineering for production apps
-
----
-
-## 📊 GitHub Activity
-
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalHilal&theme=react-dark&hide_border=true)
-
-![Snake animation](https://raw.githubusercontent.com/VishalHilal/VishalHilal/output/github-contribution-grid-snake.svg)
+![Contribution snake](https://raw.githubusercontent.com/VishalHilal/VishalHilal/output/github-contribution-grid-snake.svg)
